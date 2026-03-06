@@ -17,7 +17,7 @@ Welcome to the public home of Dependabot :dependabot:.
   - [Submitting Pull Requests](#submitting-pull-requests)
   - [New Ecosystems](#new-ecosystems)
 - [Development Guide](#development-guide)
-  - [Getting a Development Environment Running](#getting-a-development-environment-running)
+  - [Getting a Development Environment Running](#getting-a-development-environment-running) 
   - [Debugging Problems](#debugging-problems)
   - [Running Tests](#running-tests)
   - [Profiling](#profiling)
