@@ -25,7 +25,7 @@ Welcome to the public home of Dependabot :dependabot:.
 - [Trademarks](#trademarks)
 - [Notes for Project Maintainers](#notes-for-project-maintainers)
 
----
+---  
 
 # What is Dependabot-Core?
 
